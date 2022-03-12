@@ -1,22 +1,26 @@
 # OS-LAB-Python-Cource
 ## Assignment 1 :
 ```Several operating system applications``` :
-#### ```arch``` : Indicates whether the system is 32-bit or 64-bit
-#### ```uptime``` : Indicates the current running time of the system and the average system load and the number of users logged into the system
-#### ```free``` : Indicates the amount of memory consumed by the system
-#### ```Pwd``` : Prints the name of the current work path in its entirety, abbreviated as Print Working Directory
-#### ```exit``` : The command is to exit and close the terminal
+####
+ ```arch``` : Indicates whether the system is 32-bit or 64-bit
+ ```uptime``` : Indicates the current running time of the system and the average system load and the number of users logged into the system
+```free``` : Indicates the amount of memory consumed by the system
+```Pwd``` : Prints the name of the current work path in its entirety, abbreviated as Print Working Directory
+```exit``` : The command is to exit and close the terminal
 
-## Solotion 2:
-#### Calculate the circumference and area of a circle .
+### Solotion 2:
+#### 
+Calculate the circumference and area of a circle .
 
-## Solution 3 :
-#### Geometry donor theorem .
+### Solution 3 :
+#### 
+Geometry donor theorem .
 
-## Solution 4 :
-#### Calculate BMI a Person .
+### Solution 4 :
+####
+Calculate BMI a Person .
 ## Assignment 2 :
-### Calculator :
+### ```Calculator :```
 - [x] Add two numbers together (Press Num1) +
 - [x] Subtract two numbers from each other (Press Num2) -
 - [x] Multiply two numbers together (Press Num3) x
@@ -42,29 +46,46 @@
 - [x] Play in 5 stages and announce the winner 🏆
 
 ### Seconds to Time :
-#### Convert seconds to time format (ex. 3661 sec == 1:01:01)
+#### 
+Convert seconds to time format (ex. 3661 sec == 1:01:01)
 
 ### Time To Second :
-#### Convert time to second format (ex. 1:01:01 sec == 3661)
+#### 
+Convert time to second format (ex. 1:01:01 sec == 3661)
 ## Assignment 3 :
-### KMM & BMM :
+### 
+```KMM & BMM:```
 Find the largest common divisor and the smallest common multiple between two integers
 
-### HangMan :
+### ```HangMan :```
+####
 ![330px-Hangman svg](https://user-images.githubusercontent.com/91725214/155573188-aec5989c-ad0a-4753-b643-2e9d61f8e029.png)
 The word to guess is represented by a row of dashes, representing each letter of the word. Rules may permit or forbid proper nouns, such as names, places, brands, or slang. If the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. If the suggested letter does not occur in the word, the other player draws one element of a hanged stick figure as a tally mark.
 ### Is Armstrong Number :
-#### The Armstrong number is called a number. If we multiply each of its numbers by the power of the number of numbers, it becomes equal to the number itself.
+#### 
+The Armstrong number is called a number. If we multiply each of its numbers by the power of the number of numbers, it becomes equal to the number itself.
 #### Example :
-#### Consider the number 153
-#### 153 is a three-digit number, so we multiply each of its numbers by the power of three and add it together:
-#### 153 = 1 * 1 * 1 + 5 * 5 * 5 + 3 * 3 * 3
-#### The number 153 is an Armstrong number.
+#### 
+Consider the number 153
+153 is a three-digit number, so we multiply each of its numbers by the power of three and add it together:
+153 = 1 * 1 * 1 + 5 * 5 * 5 + 3 * 3 * 3
+The number 153 is an Armstrong number.
 
 ### Is Factorial :
-#### Checks if it is a factorial number and returns a Boolean variable in response
-#### Example :
-#### Consider the number 120 = 1 * 2 * 3 * 4 * 5 = 5!
+#### 
+Checks if it is a factorial number and returns a Boolean variable in response
+Example :
+Consider the number 120 = 1 * 2 * 3 * 4 * 5 = 5!
 
 ### Word Sentence :
-#### Counts the number of words in a sentence
+#### 
+Counts the number of words in a sentence
+
+
+
+
+# Certificate:
+<a href='https://www.sololearn.com'>www.Sololearn.com</a>
+![png](https://user-images.githubusercontent.com/91725214/158021136-8cfe0576-1326-4bd1-9437-90144023403a.png)
+![png](https://user-images.githubusercontent.com/91725214/158021148-b058526e-67bc-4adb-baa2-64b12a4a1beb.png)
+
