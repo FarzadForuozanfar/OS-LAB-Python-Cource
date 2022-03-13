@@ -1,5 +1,5 @@
 # OS-LAB-Python-Cource
-## Assignment 1 :
+# Assignment 1 :
 ```Several operating system applications``` :
 ####
  ```arch``` : Indicates whether the system is 32-bit or 64-bit
@@ -19,7 +19,7 @@ Geometry donor theorem .
 ### Solution 4 :
 ####
 Calculate BMI a Person .
-## Assignment 2 :
+# Assignment 2 :
 ### ```Calculator :```
 - [x] Add two numbers together (Press Num1) +
 - [x] Subtract two numbers from each other (Press Num2) -
@@ -52,7 +52,7 @@ Convert seconds to time format (ex. 3661 sec == 1:01:01)
 ### Time To Second :
 #### 
 Convert time to second format (ex. 1:01:01 sec == 3661)
-## Assignment 3 :
+# Assignment 3 :
 ### 
 ```KMM & BMM:```
 Find the largest common divisor and the smallest common multiple between two integers
