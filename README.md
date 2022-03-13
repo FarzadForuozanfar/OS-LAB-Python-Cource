@@ -109,8 +109,10 @@ Each items have :
 - Price
 - Count
 
-
-
+# Assignment 6 (Translator):
+Creating a dictionary  by a words bank in which all data (words) are stored :
+- [x]  Persian to English
+- [x]  English to Persian
 # Certificate:
 <a href='https://www.sololearn.com'>www.Sololearn.com</a>
 ![png](https://user-images.githubusercontent.com/91725214/158021136-8cfe0576-1326-4bd1-9437-90144023403a.png)
