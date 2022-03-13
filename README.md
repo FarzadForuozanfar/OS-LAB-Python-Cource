@@ -80,7 +80,12 @@ Consider the number 120 = 1 * 2 * 3 * 4 * 5 = 5!
 ### Word Sentence :
 #### 
 Counts the number of words in a sentence
-
+## Random Array:
+####
+Makes a random array with the size that the user gives as input
+## Sort Array:
+####
+Checks that the presentation received as input from the user is sorted descending
 
 
 
