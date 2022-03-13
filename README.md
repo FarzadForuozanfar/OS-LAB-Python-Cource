@@ -80,12 +80,19 @@ Consider the number 120 = 1 * 2 * 3 * 4 * 5 = 5!
 ### Word Sentence :
 #### 
 Counts the number of words in a sentence
-## Random Array:
+### Random Array:
 ####
 Makes a random array with the size that the user gives as input
-## Sort Array:
+### Sort Array:
 ####
 Checks that the presentation received as input from the user is sorted descending
+# Assignment 4 :
+### Multiplication_table :
+Create a multiplication table with the number of columns and rows desired by the user
+### chesstable :
+Create a checkered page with the number of columns and rows desired by the user in the shape of a star and an hashtag # *
+### fibo :
+Create a Fibonacci sequence to the user's liking using the repeat loop
 
 
 
