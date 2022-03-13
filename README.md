@@ -113,6 +113,24 @@ Each items have :
 Creating a dictionary  by a words bank in which all data (words) are stored :
 - [x]  Persian to English
 - [x]  English to Persian
+
+# Assignmen 7 :
+### Khayam-Pascal:
+![400px-Pascal's_Triangle1](https://user-images.githubusercontent.com/91725214/158057027-498e2657-d24f-48a0-bdee-c173c667ecbf.jpg)
+####
+<a href='https://en.wikipedia.org/wiki/Pascal%27s_triangle'> www.Wikipedia.com </a>
+Print Khayyam Pascal triangle to the user's desired column
+### Symmetrical :
+Check the symmetry of a Array numbers
+### Check the symmetry of a number :
+The four basic mathematical operations on fractional numbers
+- [x] +
+- [x] -
+- [X] x
+- [x] /
+- [x] Exit
+### Wedding:
+Write a plan for every boy and girl to marry by chance. Note that a boy can not marry two girls at the same time, and vice versa.
 # Certificate:
 <a href='https://www.sololearn.com'>www.Sololearn.com</a>
 ![png](https://user-images.githubusercontent.com/91725214/158021136-8cfe0576-1326-4bd1-9437-90144023403a.png)
