@@ -1,6 +1,6 @@
 # Assignment10 (SQL):
 ### Problem description:
-Create a database for Digitala with two tables :
+Create a database for Digikala with two tables :
 - 1- Enter the desired information into the table using the **INSERT** command.
 - 2- Show only available items using the **SELECT** command.
 - 3- Use the **DELETE** command to delete non-Iranian customers.
