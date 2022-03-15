@@ -1,5 +1,6 @@
 # OS-LAB-Python-Cource
-# Assignment 1 :
+####
+## Assignment 1 :
 ```Several operating system applications``` :
 ####
  ```arch``` : Indicates whether the system is 32-bit or 64-bit
@@ -164,7 +165,7 @@ Complex numbers that are displayed in the form **"a + i b"**. Where **a** and **
 
 # Assignment 10 (SQL):
 ### Problem description:
-Create a database for Digitala with two tables :
+Create a database for Digikala with two tables :
 - 1- Enter the desired information into the table using the **INSERT** command.
 - 2- Show only available items using the **SELECT** command.
 - 3- Use the **DELETE** command to delete non-Iranian customers.
