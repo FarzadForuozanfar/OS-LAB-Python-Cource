@@ -1,6 +1,4 @@
-# OS-LAB-Python-Cource
-####
-## Assignment 1 :
+# Assignment 1 :
 ```Several operating system applications``` :
 ####
  ```arch``` : Indicates whether the system is 32-bit or 64-bit
