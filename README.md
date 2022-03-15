@@ -161,8 +161,21 @@ Complex numbers that are displayed in the form **"a + i b"**. Where **a** and **
 - [x] time to second (E.X input : 3600 seconds ==> output : 01:00:00)
 - [x] divide two fraction numbers (E.X input : 01:00:00 ==> output : 3600 seconds)
 - [x] exit
+
+# Assignment 10 (SQL):
+### Problem description:
+Create a database for Digitala with two tables :
+- 1- Enter the desired information into the table using the **INSERT** command.
+- 2- Show only available items using the **SELECT** command.
+- 3- Use the **DELETE** command to delete non-Iranian customers.
+- 4- Reduce the price of all items by 20% using the **UPDATE** command.
+
+
+Powerd by <a href='https://sqlitebrowser.org/'>sqlitebrowser.org</a>
+####
 # Certificate:
 <a href='https://www.sololearn.com'>www.Sololearn.com</a>
 ![png](https://user-images.githubusercontent.com/91725214/158021136-8cfe0576-1326-4bd1-9437-90144023403a.png)
 ![png](https://user-images.githubusercontent.com/91725214/158021148-b058526e-67bc-4adb-baa2-64b12a4a1beb.png)
+![png](https://user-images.githubusercontent.com/91725214/157819260-c03c5293-0a5d-4ce4-a967-c1821e041be6.png)
 
