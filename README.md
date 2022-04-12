@@ -92,6 +92,11 @@ Create a multiplication table with the number of columns and rows desired by the
 Create a checkered page with the number of columns and rows desired by the user in the shape of a star and an hashtag # *
 ### fibo :
 Create a Fibonacci sequence to the user's liking using the repeat loop
+####
+Run in consol:
+####
+![image](https://user-images.githubusercontent.com/91725214/162984659-52db73ee-f68a-40ae-a411-8de84d8eae8e.png)
+
 # Assignment 5(Store) :
 Build a store software based on the CSV database with limited features such as
 - [x] Adding new items to the store
